@@ -1,3 +1,6 @@
+[Fork note]
+Just added power graph.
+
 # USB Power Meter V5 GUI
 
 An unofficial cross-platform software for the Chinese RF power meter
